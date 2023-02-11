@@ -12,4 +12,4 @@ This app will take 3 input:-
 
 You can install this app in Windows even if you dont have python installed in your system by simply clicking on "AmazonTracker_Deal.exe"
 
-by:- Shetty Ganeshprasad Santosh.
+by:- Shetty Ganeshprasad Santhosh.
